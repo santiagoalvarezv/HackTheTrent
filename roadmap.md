@@ -1,0 +1,3 @@
+- [x] Remove placement quiz + levels
+- [x] Auth gate on lesson start, guest mode
+- [x] Blinking LED: remove real-life view
